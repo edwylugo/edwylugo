@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 - My favorite band is: Iron Maiden, Pink Floyd and Metallica
 
-- Ok, to finish, check out my Linkedin: linkedin.com/in/edwylugo/
+- Ok, to finish, check out my Linkedin: https://www.linkedin.com/in/edwylugo/
 
 - I'm a Counter Strike GO player. My Profile: https://steamcommunity.com/id/edwylugo
