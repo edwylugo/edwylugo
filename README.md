@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 😄 I really like Swift for iOS.
 
-⚡ Curiosities
+⚡ Fun Facts:
 
 - I play guitar and love classical music mixed with rock'n roll
 
