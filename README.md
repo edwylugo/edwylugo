@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 :guitar: I play guitar and love classical music mixed with rock'n roll
 
-- I love my pets, follow me on social media to see them, you will love it
+:dog: I love my pets, follow me on social media to see them, you will love it
 
 - Software is a hobby for me, I love to learn new things, but sometimes I spend a long day watching series to not go crazy with the codes.
 
