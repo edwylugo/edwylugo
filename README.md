@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ⚡ Fun Facts:
 
-- I play guitar and love classical music mixed with rock'n roll
+:guitar: I play guitar and love classical music mixed with rock'n roll
 
 - I love my pets, follow me on social media to see them, you will love it
 
