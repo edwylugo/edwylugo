@@ -15,21 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+📚 Information Systems student.
+🏢 I’m currently a iOS Software Engineer Trainee at TQI.
+🌱 I’m currently working with Swift, iOS Development, Design Patterns, Software Architecture, Cocoa, REST APIs.
+:100 In love with coding.
+💻 Techs: Swift, Kotlin and SQL.
+🌍 Languages: Portuguese(Native) and English(Basic).
+💬 Ask me about new technologies, frameworks, iOS, Swift, IoT.
+
+Let's connect on LinkedIn.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcospojr/)](https://www.linkedin.com/in/edwylugo/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edwylugo@gmail.com)](mailto:edwylugo@gmail.com/)
 
 😄 I really like Swift for iOS.
 
 ⚡ Fun Facts:
 
 :guitar: I play guitar and love classical music mixed with rock'n roll
-
 :dog: I love my pets, follow me on social media to see them, you will love it
-
 :tv: Software is a hobby for me, I love to learn new things, but sometimes I spend a long day watching series to not go crazy with the codes.
-
 :100: My favorite band is: Iron Maiden, Pink Floyd and Metallica
-
 - Ok, to finish, check out my Linkedin: https://www.linkedin.com/in/edwylugo/
-
 - I'm a Counter Strike GO player. My Profile: https://steamcommunity.com/id/edwylugo
 
 ## 🖥️ Projects
