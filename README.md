@@ -20,9 +20,6 @@ Let's connect on LinkedIn.<br>
 ## 🖥️ Projects
 <table>
 <tr><th>Main Completed Projects in Swift</th></tr>
-<tr><td>
-
-</td><td>
 
 <table style="float: left;">
   <tr>
