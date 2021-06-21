@@ -50,20 +50,20 @@ Let's connect on LinkedIn.<br>
 <table style="float: left;">
 <tbody>
 <tr>
-<td><a href="#">The Philosopher Bot</a></td>
-<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_philosopher.png" alt="Sublime's custom image" width="100" height="100"/></td>
+<td><a href="#">IPM ITS</a></td>
+<td><img src="http://edwylugo.dev.br/assets/images/600x600/appitsgroup.png" alt="Sublime's custom image" width="100" height="100"/></td>
 </tr>
 <tr>
-<td><a href="#">Consuela</a></td>
-<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_consuela.png" alt="Sublime's custom image" width="100" height="100" /></td>
+<td><a href="#">Grid Motors</a></td>
+<td><img src="http://edwylugo.dev.br/assets/images/600x600/appgridmotors.png" alt="Sublime's custom image" width="100" height="100" /></td>
 </tr>
 <tr>
-<td><a href="#">4 Rolling</a></td>
-<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_4rolling.png" alt="Sublime's custom image" width="100" height="100" /></td>
+<td><a href="#">Good Card</a></td>
+<td><img src="http://edwylugo.dev.br/assets/images/600x600/appgoodcard.png" alt="Sublime's custom image" width="100" height="100" /></td>
 </tr>
 <tr>
-<td><a href="#">Cryptosome</a></td>
-<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_cryptsome.png" alt="Sublime's custom image" width="100" height="100" /></td>
+<td><a href="#">My House</a></td>
+<td><img src="http://edwylugo.dev.br/assets/images/600x600/appmyhouse.png" alt="Sublime's custom image" width="100" height="100" /></td>
 </tr>
 </tbody>
 </table>
