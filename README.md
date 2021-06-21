@@ -82,8 +82,8 @@ Let's connect on LinkedIn.<br>
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/edwylugo/edwylugo">
-  <img align="center" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwylugo&hide=html,css,c,Dockerfile,ruby,Shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwylugo&hide=html,css,c,Dockerfile,ruby,Shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/edwylugo/edwylugo">
-  <img align="center" height="250" src="https://github-readme-stats.vercel.app/api?username=edwylugo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Edwy Lugo GitHub Stats" />
+  <img align="center" height="280" src="https://github-readme-stats.vercel.app/api?username=edwylugo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Edwy Lugo GitHub Stats" />
 </a>
