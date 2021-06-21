@@ -4,7 +4,6 @@
 
 🏢 I’m currently a iOS Software Engineer at SDvirtua Marketing Digital.<br>
 🌱 I’m currently working with Swift, iOS Development, Design Patterns, Software Architecture, Cocoa, REST APIs.<br>
-:100 In love with coding.<br>
 💻 Techs: Swift, Kotlin and SQL.<br>
 🌍 Languages: Portuguese(Native) and English(Basic).<br>
 💬 Ask me about new technologies, frameworks, iOS, Swift, IoT.<br>
