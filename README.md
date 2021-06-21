@@ -11,7 +11,9 @@
 :dog: I love my pets, follow me on social media to see them, you will love it<br>
 :tv: Software is a hobby for me, I love to learn new things, but sometimes I spend a long day watching series to not go crazy with the codes.<br>
 :100: My favorite band is: Iron Maiden, Pink Floyd and Metallica<br>
-- I'm a Counter Strike GO player. My Profile: https://steamcommunity.com/id/edwylugo<br>
+- I'm a Counter Strike GO player.<br> 
+[![Steam Badge](https://img.shields.io/badge/Edi-Steam-black?link=https://steamcommunity.com/id/edwylugo)](https://steamcommunity.com/id/edwylugo)
+
 
 Let's connect on LinkedIn.<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edwylugo/)](https://www.linkedin.com/in/edwylugo/)
