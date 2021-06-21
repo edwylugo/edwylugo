@@ -1,26 +1,22 @@
 ### Hi, I'm Edwy  👋
 
+⚡ Fun Facts:
+
 🏢 I’m currently a iOS Software Engineer at SDvirtua Marketing Digital.<br>
 🌱 I’m currently working with Swift, iOS Development, Design Patterns, Software Architecture, Cocoa, REST APIs.<br>
 :100 In love with coding.<br>
 💻 Techs: Swift, Kotlin and SQL.<br>
 🌍 Languages: Portuguese(Native) and English(Basic).<br>
 💬 Ask me about new technologies, frameworks, iOS, Swift, IoT.<br>
-
-Let's connect on LinkedIn.
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcospojr/)](https://www.linkedin.com/in/edwylugo/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edwylugo@gmail.com)](mailto:edwylugo@gmail.com)
-
-😄 I really like Swift for iOS.
-
-⚡ Fun Facts:
-
 :guitar: I play guitar and love classical music mixed with rock'n roll<br>
 :dog: I love my pets, follow me on social media to see them, you will love it<br>
 :tv: Software is a hobby for me, I love to learn new things, but sometimes I spend a long day watching series to not go crazy with the codes.<br>
 :100: My favorite band is: Iron Maiden, Pink Floyd and Metallica<br>
-- Ok, to finish, check out my Linkedin: https://www.linkedin.com/in/edwylugo/<br>
 - I'm a Counter Strike GO player. My Profile: https://steamcommunity.com/id/edwylugo<br>
+
+Let's connect on LinkedIn.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcospojr/)](https://www.linkedin.com/in/edwylugo/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edwylugo@gmail.com)](mailto:edwylugo@gmail.com)
 
 ## 🖥️ Projects
 <table>
