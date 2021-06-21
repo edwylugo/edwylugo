@@ -29,15 +29,15 @@ Let's connect on LinkedIn.<br>
 <tbody>
 <tr>
 <td><a href="#">Burger King</a></td>
-<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_cryptsome.png" alt="" /></td>
+<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_cryptsome.png" alt="" width="40" height="40"/></td>
 </tr>
 <tr>
 <td><a href="#">Apa Móveis</a></td>
-<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/fictional-words.png" alt="" /></td>
+<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/fictional-words.png" alt="" width="40" height="40" /></td>
 </tr>
 <tr>
 <td><a href="#">Afinz</a></td>
-<td><img src="http://edwylugo.dev.br/assets/images/600x600/appafinz.png" alt="" /></td>
+<td><img src="http://edwylugo.dev.br/assets/images/600x600/appafinz.png" alt="" width="40" height="40"/></td>
 </tr>
 </tbody>
 </table>
@@ -47,19 +47,19 @@ Let's connect on LinkedIn.<br>
 <tbody>
 <tr>
 <td><a href="#">The Philosopher Bot</a></td>
-<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_philosopher.png" alt="Sublime's custom image" /></td>
+<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_philosopher.png" alt="Sublime's custom image" width="40" height="40"/></td>
 </tr>
 <tr>
 <td><a href="#">Consuela</a></td>
-<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_consuela.png" alt="Sublime's custom image" /></td>
+<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_consuela.png" alt="Sublime's custom image" width="40" height="40" /></td>
 </tr>
 <tr>
 <td><a href="#">4 Rolling</a></td>
-<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_4rolling.png" alt="Sublime's custom image" /></td>
+<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_4rolling.png" alt="Sublime's custom image" width="40" height="40" /></td>
 </tr>
 <tr>
 <td><a href="#">Cryptosome</a></td>
-<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_cryptsome.png" alt="Sublime's custom image" /></td>
+<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_cryptsome.png" alt="Sublime's custom image" width="40" height="40" /></td>
 </tr>
 </tbody>
 </table>
