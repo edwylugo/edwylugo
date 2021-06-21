@@ -16,9 +16,9 @@
 Let's connect on LinkedIn.<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edwylugo/)](https://www.linkedin.com/in/edwylugo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edwylugo@gmail.com)](mailto:edwylugo@gmail.com)
-[![Edwy Badge](https://img.shields.io/badge/Edwy%20Lugo-Who%20am%20I%3F%20Click%20Here!!!-blue&link=http://edwylugo.dev.br)]
+[![Edwy Badge](https://img.shields.io/badge/Edwy%20Lugo-Who%20am%20I%3F%20Click%20Here!!!-blue)]
+(http://edwylugo.dev.br)
 
-https://img.shields.io/badge/Edwy%20Lugo-Who%20am%20I%3F%20Click%20Here!!!-blue
 
 <p>## 🖥️ Projects</p>
 <table>
