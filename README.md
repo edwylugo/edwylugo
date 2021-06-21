@@ -14,7 +14,7 @@
 :100: My favorite band is: Iron Maiden, Pink Floyd and Metallica<br>
 - I'm a Counter Strike GO player. My Profile: https://steamcommunity.com/id/edwylugo<br>
 
-Let's connect on LinkedIn.
+Let's connect on LinkedIn.<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcospojr/)](https://www.linkedin.com/in/edwylugo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edwylugo@gmail.com)](mailto:edwylugo@gmail.com)
 
