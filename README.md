@@ -21,37 +21,59 @@ Let's connect on LinkedIn.<br>
 <table>
 <tbody>
 <tr>
-<th style="width: 468.328125px; text-align: left;" colspan="2">Main projects in Swift</th>
+<th style="width: 468.328125px; text-align: left;" colspan="3">Main projects in Swift</th>
 </tr>
 <tr>
-<td style="width: 129.875px;">
+<td>
 <table style="display: inline-block;">
 <tbody>
 <tr>
 <td><a href="#">Burger King</a></td>
-<td><img src="http://edwylugo.dev.br/assets/images/600x600/appburgerking.png" alt="" width="100" height="100"/></td>
+<td><img src="http://edwylugo.dev.br/assets/images/600x600/appburgerking.png" alt="" width="100" height="100" /></td>
 </tr>
 <tr>
-<td><a href="#">Apa Móveis</a></td>
+<td><a href="#">Apa M&oacute;veis</a></td>
 <td><img src="http://edwylugo.dev.br/assets/images/600x600/appapamoveis.png" alt="" width="100" height="100" /></td>
 </tr>
 <tr>
 <td><a href="#">Afinz</a></td>
-<td><img src="http://edwylugo.dev.br/assets/images/600x600/appafinz.png" alt="" width="100" height="100"/></td>
+<td><img src="http://edwylugo.dev.br/assets/images/600x600/appafinz.png" alt="" width="100" height="100" /></td>
 </tr>
 <tr>
 <td><a href="#">Next</a></td>
-<td><img src="http://edwylugo.dev.br/assets/images/600x600/appnext.png" alt="" width="100" height="100"/></td>
+<td><img src="http://edwylugo.dev.br/assets/images/600x600/appnext.png" alt="" width="100" height="100" /></td>
 </tr>
 </tbody>
 </table>
 </td>
-<td style="width: 332.453125px;">
+<td>
 <table style="float: left;">
 <tbody>
 <tr>
 <td><a href="#">IPM ITS</a></td>
-<td><img src="http://edwylugo.dev.br/assets/images/600x600/appitsgroup.png" alt="Sublime's custom image" width="100" height="100"/></td>
+<td><img src="http://edwylugo.dev.br/assets/images/600x600/appitsgroup.png" alt="Sublime's custom image" width="100" height="100" /></td>
+</tr>
+<tr>
+<td><a href="#">Grid Motors</a></td>
+<td><img src="http://edwylugo.dev.br/assets/images/600x600/appgridmotors.png" alt="Sublime's custom image" width="100" height="100" /></td>
+</tr>
+<tr>
+<td><a href="#">Good Card</a></td>
+<td><img src="http://edwylugo.dev.br/assets/images/600x600/appgoodcard.png" alt="Sublime's custom image" width="100" height="100" /></td>
+</tr>
+<tr>
+<td><a href="#">My House</a></td>
+<td><img src="http://edwylugo.dev.br/assets/images/600x600/appmyhouse.png" alt="Sublime's custom image" width="100" height="100" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+  <td>
+<table style="float: left;">
+<tbody>
+<tr>
+<td><a href="#">IPM ITS</a></td>
+<td><img src="http://edwylugo.dev.br/assets/images/600x600/appitsgroup.png" alt="Sublime's custom image" width="100" height="100" /></td>
 </tr>
 <tr>
 <td><a href="#">Grid Motors</a></td>
