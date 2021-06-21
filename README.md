@@ -19,26 +19,8 @@ Let's connect on LinkedIn.<br>
 
 ## 🖥️ Projects
 <table>
-<tr><th>Personal Projects in Swift</th><th>Main Completed Projects in Swift </th></tr>
+<tr><th>Main Completed Projects in Swift</th></tr>
 <tr><td>
-
-<table style="display: inline-block;">
-  <tr>
-<td><a href="https://github.com/CaioMadeira/Cryptosome-iOS">Cryptosome iOS</a></td>
-    <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_cryptsome.png" alt=""/></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/CaioMadeira/FictionalWords-iOS">Fictional Words</a></td>
-    <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/fictional-words.png" alt=""/></td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/CaioMadeira/TerminalFatal">Terminal Fatal</a></td>
-    <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_terminalfatal.png" alt=""/></td>
-  </tr>
-
-</table>
-
 
 </td><td>
 
