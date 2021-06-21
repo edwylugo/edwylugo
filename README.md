@@ -72,21 +72,10 @@ Let's connect on LinkedIn.<br>
 <table style="float: left;">
 <tbody>
 <tr>
-<td><a href="#">IPM ITS</a></td>
-<td><img src="http://edwylugo.dev.br/assets/images/600x600/appitsgroup.png" alt="Sublime's custom image" width="100" height="100" /></td>
+<td><a href="#">X-Control</a></td>
+<td><img src="http://edwylugo.dev.br/assets/images/600x600/appxcontrol.png" alt="Sublime's custom image" width="100" height="100" /></td>
 </tr>
-<tr>
-<td><a href="#">Grid Motors</a></td>
-<td><img src="http://edwylugo.dev.br/assets/images/600x600/appgridmotors.png" alt="Sublime's custom image" width="100" height="100" /></td>
-</tr>
-<tr>
-<td><a href="#">Good Card</a></td>
-<td><img src="http://edwylugo.dev.br/assets/images/600x600/appgoodcard.png" alt="Sublime's custom image" width="100" height="100" /></td>
-</tr>
-<tr>
-<td><a href="#">My House</a></td>
-<td><img src="http://edwylugo.dev.br/assets/images/600x600/appmyhouse.png" alt="Sublime's custom image" width="100" height="100" /></td>
-</tr>
+
 </tbody>
 </table>
 </td>
