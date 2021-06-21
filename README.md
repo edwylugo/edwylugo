@@ -20,7 +20,7 @@ Let's connect on LinkedIn.<br>
 
 ## 🖥️ Projects
 <table>
-<tr><th>Main projects in Swift</th><th>Main projects in Python</th></tr>
+<tr><th>Personal Projects in Swift</th><th>Main Completed Projects in Swift </th></tr>
 <tr><td>
 
 <table style="display: inline-block;">
