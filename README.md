@@ -28,16 +28,16 @@ Let's connect on LinkedIn.<br>
 <table style="display: inline-block;">
 <tbody>
 <tr>
-<td><a href="https://github.com/CaioMadeira/Cryptosome-iOS">Cryptosome iOS</a></td>
+<td><a href="#">Burger King</a></td>
 <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_cryptsome.png" alt="" /></td>
 </tr>
 <tr>
-<td><a href="https://github.com/CaioMadeira/FictionalWords-iOS">Fictional Words</a></td>
+<td><a href="#">Apa Móveis</a></td>
 <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/fictional-words.png" alt="" /></td>
 </tr>
 <tr>
-<td><a href="https://github.com/CaioMadeira/TerminalFatal">Terminal Fatal</a></td>
-<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_terminalfatal.png" alt="" /></td>
+<td><a href="#">Afinz</a></td>
+<td><img src="http://edwylugo.dev.br/assets/images/600x600/appafinz.png" alt="" /></td>
 </tr>
 </tbody>
 </table>
@@ -46,19 +46,19 @@ Let's connect on LinkedIn.<br>
 <table style="float: left;">
 <tbody>
 <tr>
-<td><a href="https://github.com/CaioMadeira/The-Philosopher-BOT">The Philosopher Bot</a></td>
+<td><a href="#">The Philosopher Bot</a></td>
 <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_philosopher.png" alt="Sublime's custom image" /></td>
 </tr>
 <tr>
-<td><a href="https://github.com/CaioMadeira/Consuela">Consuela</a></td>
+<td><a href="#">Consuela</a></td>
 <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_consuela.png" alt="Sublime's custom image" /></td>
 </tr>
 <tr>
-<td><a href="https://github.com/CaioMadeira/4rolling">4 Rolling</a></td>
+<td><a href="#">4 Rolling</a></td>
 <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_4rolling.png" alt="Sublime's custom image" /></td>
 </tr>
 <tr>
-<td><a href="https://github.com/CaioMadeira/Cryptosome">Cryptosome</a></td>
+<td><a href="#">Cryptosome</a></td>
 <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_cryptsome.png" alt="Sublime's custom image" /></td>
 </tr>
 </tbody>
