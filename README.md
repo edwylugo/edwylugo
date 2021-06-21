@@ -17,53 +17,56 @@ Let's connect on LinkedIn.<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcospojr/)](https://www.linkedin.com/in/edwylugo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edwylugo@gmail.com)](mailto:edwylugo@gmail.com)
 
-## 🖥️ Projects
+<p>## 🖥️ Projects</p>
 <table>
-<tr><th>Main projects in Swift</th><th></th></tr>
-<tr><td>
-
+<tbody>
+<tr>
+<th style="width: 468.328125px; text-align: left;" colspan="2">Main projects in Swift</th>
+</tr>
+<tr>
+<td style="width: 129.875px;">
 <table style="display: inline-block;">
-  <tr>
+<tbody>
+<tr>
 <td><a href="https://github.com/CaioMadeira/Cryptosome-iOS">Cryptosome iOS</a></td>
-    <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_cryptsome.png" alt=""/></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/CaioMadeira/FictionalWords-iOS">Fictional Words</a></td>
-    <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/fictional-words.png" alt=""/></td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/CaioMadeira/TerminalFatal">Terminal Fatal</a></td>
-    <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_terminalfatal.png" alt=""/></td>
-  </tr>
-
+<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_cryptsome.png" alt="" /></td>
+</tr>
+<tr>
+<td><a href="https://github.com/CaioMadeira/FictionalWords-iOS">Fictional Words</a></td>
+<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/fictional-words.png" alt="" /></td>
+</tr>
+<tr>
+<td><a href="https://github.com/CaioMadeira/TerminalFatal">Terminal Fatal</a></td>
+<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_terminalfatal.png" alt="" /></td>
+</tr>
+</tbody>
 </table>
-
-
-</td><td>
-
+</td>
+<td style="width: 332.453125px;">
 <table style="float: left;">
-  <tr>
-    <td><a href="https://github.com/CaioMadeira/The-Philosopher-BOT">The Philosopher Bot</a></td>
-    <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_philosopher.png" alt="Sublime's custom image"/></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/CaioMadeira/Consuela">Consuela</a></td>
-    <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_consuela.png" alt="Sublime's custom image"/></td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/CaioMadeira/4rolling">4 Rolling</a></td>
-    <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_4rolling.png" alt="Sublime's custom image"/></td>
-  </tr>
-  <tr>
+<tbody>
+<tr>
+<td><a href="https://github.com/CaioMadeira/The-Philosopher-BOT">The Philosopher Bot</a></td>
+<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_philosopher.png" alt="Sublime's custom image" /></td>
+</tr>
+<tr>
+<td><a href="https://github.com/CaioMadeira/Consuela">Consuela</a></td>
+<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_consuela.png" alt="Sublime's custom image" /></td>
+</tr>
+<tr>
+<td><a href="https://github.com/CaioMadeira/4rolling">4 Rolling</a></td>
+<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_4rolling.png" alt="Sublime's custom image" /></td>
+</tr>
+<tr>
 <td><a href="https://github.com/CaioMadeira/Cryptosome">Cryptosome</a></td>
-    <td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_cryptsome.png" alt="Sublime's custom image"/></td>
-  </tr>
+<td><img src="https://github.com/CaioMadeira/CaioMadeira/blob/master/icons/icon_cryptsome.png" alt="Sublime's custom image" /></td>
+</tr>
+</tbody>
 </table>
-
-</td></tr> </table>
-
+</td>
+</tr>
+</tbody>
+</table>
 
 ## 🔧 Technologies and Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=007bff)
