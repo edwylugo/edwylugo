@@ -9,7 +9,7 @@
 
 Let's connect on LinkedIn.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcospojr/)](https://www.linkedin.com/in/edwylugo/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edwylugo@gmail.com)](mailto:edwylugo@gmail.com/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edwylugo@gmail.com)](mailto:edwylugo@gmail.com)
 
 😄 I really like Swift for iOS.
 
