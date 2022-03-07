@@ -78,6 +78,19 @@ Let's connect on LinkedIn.<br>
 <td><a href="#">X-Control</a></td>
 <td><img src="http://edwylugo.dev.br/assets/images/600x600/appxcontrol.png" alt="Sublime's custom image" width="100" height="100" /></td>
 </tr>
+ <tr>
+<td><a href="#">Fundação Bradesco</a></td>
+<td><img src="http://edwylugo.dev.br/assets/images/600x600/fundacaobradesco.png" alt="Sublime's custom image" width="100" height="100" /></td>
+</tr>
+   <tr>
+<td><a href="#">Digio</a></td>
+<td><img src="http://edwylugo.dev.br/assets/images/600x600/digio.png" alt="Sublime's custom image" width="100" height="100" /></td>
+</tr>
+  <tr>
+<td><a href="#">Paraná Banco</a></td>
+<td><img src="http://edwylugo.dev.br/assets/images/600x600/paranabanco.png" alt="Sublime's custom image" width="100" height="100" /></td>
+</tr>
+
 
 </tbody>
 </table>
