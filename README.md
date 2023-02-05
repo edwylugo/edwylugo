@@ -15,10 +15,9 @@
   <img align="center" alt="Edwy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edwy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Edwy-Bitbucket" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
-  <img align="right" alt="Edwy-pic" height="150" style="border-radius:50px;" src="https://github.com/edwylugo/edwylugo/blob/output/1639081677925.jpeg?raw=true?width=676&height=676">
+  <img align="right" alt="Edwy-pic" height="150" style="border-radius:50px;" src="https://github.com/edwylugo/edwylugo/blob/output/eu_mac.png?raw=true?width=676&height=676">
   <img align="center" alt="Edwy-Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
 </div>
-  
   ##
  
 <div>
