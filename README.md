@@ -19,6 +19,7 @@ Let's connect on LinkedIn.<br>
 <br><br>
 [![Steam Badge](https://img.shields.io/badge/Edi-Steam-black?link=https://steamcommunity.com/id/edwylugo)](https://steamcommunity.com/id/edwylugo) I'm a Counter Strike GO player.
 
+![Snake animation](https://github.com/edwylugo/edwylugo/blob/output/github-contribution-grid-snake.svg)
 
 <p>## 🖥️ Projects</p>
 <table>
