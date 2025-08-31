@@ -53,4 +53,13 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/edwylugo)  
 
 ---
+
+## 
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edwylugo/edwylugo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edwylugo/edwylugo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/edwylugo/edwylugo/output/github-contribution-grid-snake.svg">
+</picture>
+
 ✨ _“Always building. Always learning. Always sharing.”_
